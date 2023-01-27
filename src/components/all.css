@@ -1,0 +1,59 @@
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.Library-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30vh;
+    width: auto;
+    font-size: 180%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-weight: 800;
+    background-color: #0A2647;
+    color: aliceblue;
+    padding: 5%;
+    border-radius: 2vw;
+    box-shadow: 10px 20px 80px black;
+}
+
+.Library-div:hover{
+    box-shadow: 0px 0px 28px #4a74dc, 10px 10px 20px 1px #4ac78a;
+    transition: ease-in-out;
+    transition-duration: 300ms;
+}
+
+.about-head{
+    color:#0A2647;
+    text-shadow: 0px 0px 80px #0A2647;
+    font-size: 140%;
+}
+
+.about-h1{
+    text-align: center;
+    margin: auto;
+}
+
+.about-paras{
+    text-align: center;
+    margin: 5vh 10vw;
+    font-size: 160%;
+    font-style: italic;
+    font-weight: 600;
+    color: #0A2647;
+    border: 1px solid #0A2647;
+    padding: 2vw 4vh;
+    border-radius: 2vw;
+    
+}
+
+.Salutation{
+    color:red;
+    font-size: 140%;
+    font-weight: 600;
+    padding: 2vw;
+}
+

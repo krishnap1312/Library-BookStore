@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Grenze+Gotisch:wght@900&family=Grenze:wght@600&display=swap');
+.SignUp-div{
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/268/726/529/stroke-artwork-abstract-coloured-lines-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: .3vw 4vw;
+    padding: 2vw 30vw ;
+    color: #E6DDC4;
+    height: 38vw;
+    
+  }
+  .Signup-Head{
+    font-size: 4vw;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Grenze Gotisch', cursive;
+  }
+  
+  .signupHead{
+    color: white;
+    font-size: 2vw;
+    font-weight: bold;
+  }
+
+  .inputSignup{
+    width: 4vw;
+  }
+
+  .inputText{
+    height: 2.5vw;
+    border-radius: 1vw;
+    padding: .5vw 2vw;
+    font-size: 2vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .buttonsSb{
+    width: 26vw;
+    height: 5vw;
+    margin: 1vw;
+    border-radius: 4vw;
+    font-size: 2vw;
+    font-weight: bold;
+    color: white;
+    background-color: #4f2721;
+  }
+  .buttonsSb:hover{
+    cursor: pointer;
+  }
+
+  .AlreadyRegister{
+    font-size: 2vw;
+  }

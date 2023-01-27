@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Grenze+Gotisch:wght@900&family=Grenze:wght@600&display=swap');
+
+
+.Form-div{
+  border: .4vw solid #2E0249;
+  margin: 2vw 10vw ;
+  padding: 1vw;
+  text-align: center;
+  border-radius: 4vw;
+  background-image: url('https://cdn.pixabay.com/photo/2017/03/25/18/06/color-2174066_960_720.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.div-form{
+  display: inline-block;
+  text-align: left;
+}
+
+.login-head{
+  font-size: 7vw;
+  margin: 0 1vw 2vw;
+  font-family: 'Grenze Gotisch', cursive;
+  color: #2E0249;
+}
+
+.input-parts{
+ font-size: 2vw;
+ padding: 0;
+ font-weight: bold;
+ margin: 0;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.input-headPass{
+  height: 5vh;
+  border-radius: 2vh;
+  padding: 1vw;
+  font-size: 1.8vw;
+  margin: 0;
+  width: 25vw;
+  color: #293462;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.check-input{
+  margin: 1vw 0;
+}
+
+input{
+  font-size: 140%;
+}
+
+.Submits{
+  color: #E6DDC4;
+  width: 7vw;
+  height: 3vw;
+  border-radius: 4vw;
+  background-color: #181D31;
+  font-size: 1.4vw;
+  font-weight: bold;
+  margin: 1vw 0vw;
+}
+
+.Submits:hover{
+  transition: ease-in-out;
+  transition-duration: 1s;
+  width: 27vw;
+  cursor: pointer;
+}
+.signup>a{
+  color: #000;
+  font-weight: bold;
+  font-size: 2vw;
+}
+.signup{
+  font-size: 3vh;
+  float: right;
+}
+
+.NewUser{
+  font-size: 2vw;
+  font-weight: bold;
+}
